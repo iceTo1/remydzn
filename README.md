@@ -1,6 +1,7 @@
 # Hi there, I'm Seungtack Lee 👋
 
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student with a strong focus on C++ programming.
+Feel free to explore my repositories, and please leave a star when you are cloning!
 
 ## 🌱 Currently Learning:
 - Advanced C++ features (e.g., modern C++, templates, function pointers)
