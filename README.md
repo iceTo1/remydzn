@@ -6,10 +6,11 @@ Feel free to explore my repositories, and please leave a star when you are cloni
 ## 🌱 Currently Learning:
 - Advanced C++ features (e.g., modern C++, templates, function pointers)
 - Algorithm design and optimization
+- Embedded system design & programming
 
 ## 💻 Skills:
 - Programming Languages: C++
-- Tools: Git, Visual Studio, etc.
+- Tools: Git, Visual Studio, Arduino IDE, etc.
 
   
 ## 🌟 Projects:
