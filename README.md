@@ -16,6 +16,7 @@ Feel free to explore my repositories, and please leave a star when you are cloni
 ## 🌟 Projects:
 - **Custom Vector Class**: A custom implementation of a dynamic array class, similar to `std::vector`. It includes basic functionalities like `push_back`, `resize`, and full STL-style iterator support (iterator, const_iterator, reverse_iterator, const_reverse_iterator).
 - **Custom List Class**: A custom implementation of a doubly linked list, similar to `std::list`. It includes basic functionalities like `push_back`, `insert`, and full STL-style iterator support (iterator, const_iterator, reverse_iterator, const_reverse_iterator).
+- **DIY MP3 Player**: A custom DIY audio player using ESP32. As a first embedded project, it plays `.wav` file without decoding. The player has functions to `play`, `pause`, `stop`, `next song`, `previous song`.
 
 (More will be added.)
 
